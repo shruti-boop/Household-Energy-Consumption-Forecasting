@@ -163,9 +163,12 @@ Energy-Consumption-Forecasting/
 This project demonstrates how time series forecasting techniques can be applied to predict household energy consumption effectively. The implementation of SARIMA and Prophet models helps understand energy usage patterns and supports better decision-making for energy management.
 
 ---
+## Project Demo Video
+YouTube Demo Link: <https://youtu.be/wJ8G6OCGK7s?si=iE2nWGpvJOdBoIVu>
 
 # Author
 
 Shruti Suresh
 
 Data Science Intern | Machine Learning & Data Analysis Enthusiast
+
